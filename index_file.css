@@ -1,0 +1,38 @@
+
+.rectangle {
+  display: flex;
+min-width: 726px;
+min-height: 100px;
+  position: relative;
+height: 100%;
+  top:30px;
+  width: 95%;
+left: 2%;
+
+  background-color: rgba(0,191,255,1);
+}
+
+.A{
+position: relative;
+top:15px;
+left:15px;
+height: 65px;
+width: 90px;
+background-color: rgba(50,250,220,1);
+background-image: ;
+border: 3px solid rgb(230,230,230,1);
+}
+.textA {
+position: relative;
+left: 50px;
+top:15px;
+font-size: 24px;
+color: white;
+}
+.textB {
+position: absolute;
+left: 85%;
+top:15px;
+font-size: 24px;
+color: white;
+}
