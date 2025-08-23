@@ -19,7 +19,7 @@ left:15px;
 height: 65px;
 width: 90px;
 background-color: rgba(50,250,220,1);
-background-image: 'https://web.archive.org/web/20211230094009im_/http://webos.top/logo.jpg';
+background-image: url("https://web.archive.org/web/20211230094009im_/http://webos.top/logo.jpg");
 border: 3px solid rgb(230,230,230,1);
 }
 .textA {
@@ -36,4 +36,5 @@ top:15px;
 font-size: 24px;
 color: white;
 }
+
 
