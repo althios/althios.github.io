@@ -1,1 +1,1 @@
-document.getElementById("Main").appendChild(document.createTextNode("Hi"));
+document.getElementById("Main").textContent="Hi";
