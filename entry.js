@@ -1,1 +1,2 @@
-document.getElementById("Main").textContent="Hi";
+var text_a = document.getElementById("Main");
+text_a.textContent="Hi";
