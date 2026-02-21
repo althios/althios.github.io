@@ -1,1 +1,1 @@
-document.body.append("hi");
+document.getElementById("p").appendChild(document.createTextNode("Hi"));
