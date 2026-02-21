@@ -1,2 +1,1 @@
-main=document.body.textcontent;
-print(main[1]);
+document.body.append("hi");
